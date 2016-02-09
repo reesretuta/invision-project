@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reesretuta/invision-producer/consumer"
+    "url": "https://github.com/reesretuta/invision-project"
   },
   "dependencies": {
     "async": "^1.5.2",
