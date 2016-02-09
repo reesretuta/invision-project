@@ -35,7 +35,7 @@ To Run:
 
 To Test: 
 ===========
-1. Run `mocha` This creates 2 producers and by default runs through 10 requests each, testing for requests processing time average of at minimum 1 sec per producer
+1. Run `mocha` This creates 2 producers and by default runs through 10 requests each, testing for a request processing time average of at minimum 1 sec per producer
 
 
 UML Diagrams: 
