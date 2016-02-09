@@ -1,0 +1,20 @@
+{
+  "name": "invision-producer/consumer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "author": "Rees Retuta",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reesretuta/invision-producer/consumer"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "connect": "^3.4.1",
+    "mocha": "^2.4.5",
+    "response-time": "^2.3.1",
+    "supertest": "^1.1.0",
+    "winston": "^1.0.2"
+  }
+}
